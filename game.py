@@ -1,3 +1,6 @@
+# задание номер 4 игра консольная
+
+
 player_hp = 100
 player_st = 30
 player_inventory = []
